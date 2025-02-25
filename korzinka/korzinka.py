@@ -66,3 +66,4 @@ screen.blit(text, (10, 10))
 pygame.display.update()
  
 pygame.quit()
+
